@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+  background-color: #242426;
+}
+/* body {
+  overflow: hidden;
+} */
